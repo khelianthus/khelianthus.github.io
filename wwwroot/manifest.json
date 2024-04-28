@@ -1,0 +1,21 @@
+{
+  "name": "PetScanner",
+  "short_name": "PetScan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#BED7DC",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/cat.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/cat.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    }
+  ]
+}
